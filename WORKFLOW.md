@@ -52,3 +52,7 @@ A person can clone repository, install documented Godot 4 version, run a documen
 
 ## Autonomous agent prompt
 'Operate as the project coordinator for this repository. Read AGENTS.md, docs/MODEL_CONTEXT_ARCHIVE.md and WORKFLOW.md. Inspect actual project state. Implement the highest-priority unblocked milestone in Godot 4 Windows-first. Delegate bounded nonconflicting tasks if supported, integrate and test continuously, update archive/workflow/status on approved new design decisions, commit working increments, and keep iterating until completion criteria or resource limits. Never claim tests or builds you did not run. Report blockers and reproducible next steps.'
+
+
+## Current design-priority overlay (2026-10-22)
+The priority gates above describe runnable milestones and are not evidence of implementation. For the latest feature sequencing, geographic-cell treatment, military-control logic, mission/order contracts and interior deferral, read docs/MAP_ORDERS_AND_PRIORITY_DESIGN_V1.md. Preserve the user-reported existing Europe/nation/few-large-provinces map; inspect before modifying. First integrated operational loop: issue capture order -> delegated movement/combat -> local ground control/frontline changes -> cross-zoom persistence -> save/load. Interiors remain TODO, not a blocker.
