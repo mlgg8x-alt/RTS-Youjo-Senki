@@ -24,3 +24,6 @@ LOCKED = user-approved; PROPOSED = discussion/implementation candidate; DEFERRED
 
 ## LOCKED PRIORITY: Supply and transport
 Supply inventory and transport capacity are distinct, authoritative and shared across all command layers. Physical shipments, constrained routes, hubs, civilian competition and infrastructure disruption determine delivery; no instant reinforcement or ammunition teleportation. Detailed proposed contract: docs/SUPPLY_TRANSPORT_ARCHITECTURE_V1.md. Implement graph/inventory/shipments early and test cross-layer bridge destruction.
+
+## LOCKED PRIORITY: Automated staff and player delegation
+The player sets intent, priorities and restrictions while AI staff handles routine logistics, transport, recruitment, planning and subordinate tactical execution. Per-scope auto/supervised/manual modes; manual does not freeze subordinate execution. Alerts are filtered by significance; command authority, delays and imperfect knowledge apply. Lore research and detailed proposed mechanics: docs/LORE_AND_DELEGATED_STAFF_V1.md. Separate official canon from secondary interpretation.
