@@ -21,3 +21,6 @@ Original or appropriately licensed assets only. Reference other games for mechan
 
 ## Decision governance
 LOCKED = user-approved; PROPOSED = discussion/implementation candidate; DEFERRED = future. Every new decision requires updating this archive, workflow priorities, relevant acceptance tests, and change log in the SAME change set. Do not silently rewrite locked decisions. Preserve explicit unresolved questions. References: docs/GRAND_STRATEGY_REFERENCE_RESEARCH_V1.md and docs/CAMPAIGN_WORLD_AND_FRONTS_V1.md.
+
+## LOCKED PRIORITY: Supply and transport
+Supply inventory and transport capacity are distinct, authoritative and shared across all command layers. Physical shipments, constrained routes, hubs, civilian competition and infrastructure disruption determine delivery; no instant reinforcement or ammunition teleportation. Detailed proposed contract: docs/SUPPLY_TRANSPORT_ARCHITECTURE_V1.md. Implement graph/inventory/shipments early and test cross-layer bridge destruction.
