@@ -27,3 +27,7 @@ Supply inventory and transport capacity are distinct, authoritative and shared a
 
 ## LOCKED PRIORITY: Automated staff and player delegation
 The player sets intent, priorities and restrictions while AI staff handles routine logistics, transport, recruitment, planning and subordinate tactical execution. Per-scope auto/supervised/manual modes; manual does not freeze subordinate execution. Alerts are filtered by significance; command authority, delays and imperfect knowledge apply. Lore research and detailed proposed mechanics: docs/LORE_AND_DELEGATED_STAFF_V1.md. Separate official canon from secondary interpretation.
+
+
+## LOCKED 2026-10-22: Map, orders, territorial victory and interiors
+See docs/MAP_ORDERS_AND_PRIORITY_DESIGN_V1.md for the detailed approved design. Existing Europe/nations/few-large-provinces map is to be enriched, not rebuilt. Geographic cells are irregular and variable-size streaming cutouts, not isolated capture maps. Ground control and active frontlines are continuous and separate from legal borders; missions, not percent-of-cell capture, define operational success. Orders are hierarchical, persistent, staff-delegated and subject to communication and authority. Interior rendering and transitions are explicitly DEFERRED/TODO. The document specifies target workflow, NOT verified implementation status.
